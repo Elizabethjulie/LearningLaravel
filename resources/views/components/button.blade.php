@@ -1,1 +1,1 @@
-<a {{  $attributes->merge(['class'=>'bg-blue-600 text-white font-semibold px-4 py-2 rounded-lg hover:bg-blue-700 transition duration-300']) }}>Create job</a>
+<a {{  $attributes->merge(['class'=>'bg-blue-600 text-white font-semibold px-4 py-2 rounded-lg hover:bg-blue-700 transition duration-300']) }}>Edit job</a>
